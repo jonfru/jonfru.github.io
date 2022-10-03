@@ -27,7 +27,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 
 - I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya) teaching linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 ---
-I enjoy when mathematics and visual arts come together and I co-produced the *Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford as 
+I enjoy when mathematics and visual arts come together and in '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the *Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford.
 
 
 <div style="position:relative;padding-bottom:90%;">
