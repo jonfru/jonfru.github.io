@@ -43,7 +43,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 I really enjoy it when mathematics and visual arts come together.
 
 In '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
-I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) for the exhibition, and you can see me talking about it [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme which allowed exhibition visitors to generate their own symmetric patterns inspired by Islamic art (feel free to email me if you made a cool design and want to share):
+I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) explaining symmetry for the exhibition, and you can see me talking about the exhibition [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme which allowed exhibition visitors to generate their own symmetric patterns inspired by Islamic art (feel free to email me if you made a cool design and want to share):
 
 <div style="position:relative;padding-bottom:92%;">
  <iframe style="width:100%;height:100%;position:absolute;border:0px;"
