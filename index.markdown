@@ -26,9 +26,7 @@ My research is in geometric group theory and I my work explores connections betw
 I am also interested in model theory and mathematical logic (from a group theoretic point of view). \
 \
 *Research papers:*
->asdf
->asdf
 >Formal solutions and the first-order theory of acylindrically hyperbolic groups, with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html). \
-fasdf
+Journal of the London Mathematical Society 105-2 (2022), 1012-1072. [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
 
 <iframe scrolling="no" title="Symmetric Pattern Generator - Wallpaper Group p6m" src="https://www.geogebra.org/material/iframe/id/uu6a2zt2/width/1085/height/967/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" style="width: 100%; height:100vh; border:0px;"> </iframe>
