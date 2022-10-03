@@ -1,3 +1,9 @@
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 ---
 title: Jonathan Fruchter
 theme: minima
