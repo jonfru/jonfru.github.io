@@ -1,5 +1,6 @@
+---
 theme:_layout/default.html
-
+---
 <style>
   .footer {
     display: none;
