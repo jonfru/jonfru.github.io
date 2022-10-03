@@ -31,6 +31,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 - I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya) teaching linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 
 ---
+## **Other things that I like**
 I enjoy when mathematics and visual arts come together and in '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
 I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) for the exhibition, and you can see me talking about it [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme for generating symmetric patterns inspired by Islamic art:
 
