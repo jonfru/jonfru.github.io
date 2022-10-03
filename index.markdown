@@ -20,7 +20,7 @@ Fourth year DPhil student at the University of Oxford working under the supervis
 I am a Clarendon Scholar and the recipient of a John Moussouris scholarship in mathematics.\
 I completed my master's degrees at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). \
 \
-My research is in geometric group theory and my work explores connections between geometry, topology and profinite rigidity. \
+My research is in **geometric group theory** and my work explores connections between geometry, topology and profinite rigidity. \
 I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). \
 \
 **Research papers:**
