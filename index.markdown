@@ -1,8 +1,3 @@
----
-title: Jonathan Fruchter
-theme: minima
-layout:page
----
 <style>
   .footer {
     display: none;
