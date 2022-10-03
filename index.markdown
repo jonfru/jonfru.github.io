@@ -23,7 +23,7 @@ I completed my master's degree at the Hebrew University of Jerusalem under the s
 My research is in **geometric group theory** and my work explores connections between geometry, topology and profinite rigidity. \
 I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). \
 \
-**Research papers:**
+##**Research papers:**
 >Characterising surface groups by their virtual second betti number, *with an appendix by [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
 Preprint [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
 
@@ -34,7 +34,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
 
 \
-**Teaching:**
+##**Teaching:**
 - I am a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching **A2: Metric Spaces and Complex Analysis** in Michaelmas '22-23. 
 - asdf\
 
