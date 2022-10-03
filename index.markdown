@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Jonathan Fruchter
----
 #Jonathan Fruchter
+
+---
 <style>
   .footer {
     display: none;
