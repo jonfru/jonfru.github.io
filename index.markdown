@@ -25,7 +25,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
 
 ## **Teaching:**
-- I am a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching **A2: Metric Spaces and Complex Analysis** in Michaelmas '22-23. 
+- I am a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23. 
 
 - I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya) teaching linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 
