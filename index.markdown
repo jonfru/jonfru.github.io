@@ -9,11 +9,6 @@ theme: minima
     display: none;
   }
 </style>
-<style>
-  .header {
-    display: none;
-  }
-</style>
 
 <img src="me.jpg" alt="me" width="100%" />
 
