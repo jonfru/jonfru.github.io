@@ -3,8 +3,13 @@ title: Jonathan Fruchter
 layout: page
 ---
 ## Jonathan Fruchter
-📧 <TT> fruchter [at] maths.ox.ac.uk </TT>
-
+<p style="text-align:left;">
+         📧 <TT> fruchter [at] maths.ox.ac.uk </TT> 
+     <span style="float:right;">
+     N3.13, Mathematical Institute, Andrew Wiles Building
+     Woodstock Road, Oxford, OX2 6GG
+ </span>
+</p>
 <img src="me.jpg" alt="me" width="100%">
 
 ---
