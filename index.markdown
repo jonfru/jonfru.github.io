@@ -4,10 +4,7 @@ theme: minima
 layout: page
 
 ---
-    <style>
-        h1{text-align: right;}
-    </style>
-✉  <TT> fruchter [at] maths.ox.ac.uk </TT> <h1>asdf</h1>
+✉  <TT> fruchter [at] maths.ox.ac.uk </TT> 
 <img src="me.jpg" alt="me" width="100%" />
 
 Fourth year DPhil student at the University of Oxford working under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/).\
@@ -18,7 +15,7 @@ My research is in **geometric group theory** and my work explores connections be
 I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). 
 
 ---
-## **Research papers:**
+### **Research papers:**
 >Characterising surface groups by their virtual second betti number, *with an appendix by [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
 Preprint [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
 
@@ -29,13 +26,13 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
 
 ---
-## **Teaching:**
+### **Teaching:**
 - I am a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23. 
 
 - I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya) teaching linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 
 ---
-## **Other things that I like**
+### **Other things that I like**
 I enjoy when mathematics and visual arts come together and in '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
 I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) for the exhibition, and you can see me talking about it [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme which allowed the exhibition visitors to generate their own symmetric patterns inspired by Islamic art:
 
