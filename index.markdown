@@ -21,6 +21,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 
 >Formal solutions and the first-order theory of acylindrically hyperbolic groups, *with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html)*. \
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
+
 ---
 ## **Teaching:**
 - I am a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23. 
@@ -28,7 +29,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 - I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya) teaching linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 
 ---
-I enjoy when mathematics and visual arts come together and in '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the *Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford. \
+I enjoy when mathematics and visual arts come together and in '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
 I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) for the exhibition, and you can see me talking about it [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme for generating symmetric patterns inspired by Islamic art:
 
 <div style="position:relative;padding-bottom:90%;">
