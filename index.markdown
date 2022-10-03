@@ -3,6 +3,7 @@ title: Jonathan Fruchter
 theme: minima
 layout: page
 ---
+<TT> fruchter [at] maths.ox.ac.uk </TT>
 <img src="me.jpg" alt="me" width="100%" />
 
 Fourth year DPhil student at the University of Oxford working under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/).\
