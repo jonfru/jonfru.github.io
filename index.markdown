@@ -51,7 +51,7 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) exp
  scrolling="no" title="Symmetric Pattern Generator - Wallpaper Group p6m" src="https://www.geogebra.org/material/iframe/id/uu6a2zt2/width/1085/height/967/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false"> </iframe>
 </div>
 <p style="text-align:center;">
-         (works on mobile devices - drag the point on the big triangle)
+         (compatible with mobile devices - drag the point on the big triangle)
      </p>
 
 ---
