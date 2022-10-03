@@ -10,7 +10,7 @@ I completed my master's degree at the Hebrew University of Jerusalem under the s
 
 My research is in **geometric group theory** and my work explores connections between geometry, topology and profinite rigidity. \
 I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). 
-
+---
 ## **Research papers:**
 >Characterising surface groups by their virtual second betti number, *with an appendix by [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
 Preprint [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
@@ -20,7 +20,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 
 >Formal solutions and the first-order theory of acylindrically hyperbolic groups, *with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html)*. \
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
-
+---
 ## **Teaching:**
 - I am a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23. 
 
@@ -35,7 +35,6 @@ I enjoy when mathematics and visual arts come together and I co-produced the *Pr
  scrolling="no" title="Symmetric Pattern Generator - Wallpaper Group p6m" src="https://www.geogebra.org/material/iframe/id/uu6a2zt2/width/1085/height/967/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false"> </iframe>
 </div>
 ---
-
 I am also interested in insects, arachnids, reptiles and other small animals. I keep a colony of short-fingered sand geckos (*Stenodactylus sthenodactylus*) and dabble at macro photography.
 
 <a href="gec1.jpg><img src="gec1.jpg" style="width:20%"></a><a href="gec2.jpg><img src="gec2.jpg" style="width:20%"></a><a href="gec3.jpg><img src="gec3.jpg" style="width:20%"></a><a href="ins1.jpg><img src="ins1.jpg" style="width:20%"></a><a href="ins2.jpg><img src="ins2.jpg" style="width:20%"></a>
