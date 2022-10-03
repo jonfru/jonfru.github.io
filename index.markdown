@@ -32,7 +32,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 
 >Formal solutions and the first-order theory of acylindrically hyperbolic groups, with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html). \
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
-\
+
 \
 **Teaching:**
 >Stipendiary
