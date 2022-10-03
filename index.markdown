@@ -2,7 +2,7 @@
 layout: page
 title: Jonathan Fruchter
 #Jonathan Fruchter
-
+#theme: minima
 ---
 <style>
   .footer {
