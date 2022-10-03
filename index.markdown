@@ -1,7 +1,11 @@
 ---
 layout: page
 ---
-
+<style>
+  .footer {
+    display: none;
+  }
+</style>
 asdf
 asdf
 sadf
