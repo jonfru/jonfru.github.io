@@ -2,7 +2,6 @@
 title: Jonathan Fruchter
 theme: minima
 layout: page
-
 ---
 ✉  <TT> fruchter [at] maths.ox.ac.uk </TT> 
 <img src="me.jpg" alt="me" width="100%" />
