@@ -1,8 +1,8 @@
 ---
 layout: default
-#title: Jonathan Fruchter
-#Jonathan Fruchter
-#theme: minima
+title: Jonathan Fruchter
+Jonathan Fruchter
+theme: minima
 ---
 <style>
   .footer {
