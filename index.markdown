@@ -24,7 +24,7 @@ My research is in **geometric group theory** and my work explores connections be
 I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). \
 \
 **Research papers:**
->Characterising surface groups by their virtual second betti number (with an appendix by [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)). \
+>Characterising surface groups by their virtual second betti number, *with an appendix by [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
 Preprint [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
 
 >Limit groups over coherent right-angled Artin groups are cyclic subgroup separable. \
