@@ -1,7 +1,8 @@
-
-<head>
-<title> Jonathan Fruchter </title>
-</head>
+---
+title: Jonathan Fruchter
+theme: minima
+layout: page
+---
 <img src="me.jpg" alt="me" width="100%" />
 
 Fourth year DPhil student at the University of Oxford working under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/).\
