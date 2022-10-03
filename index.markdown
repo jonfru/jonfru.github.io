@@ -2,10 +2,11 @@
 title: Jonathan Fruchter
 theme: minima
 layout: page
+
+---
     <style>
         h1{text-align: right;}
     </style>
----
 <TT> fruchter [at] maths.ox.ac.uk </TT> <h1>asdf</h1>
 <img src="me.jpg" alt="me" width="100%" />
 
