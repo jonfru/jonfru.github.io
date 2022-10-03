@@ -1,10 +1,9 @@
----
 <style>
   .footer {
     display: none;
   }
 </style>
----
+
 
 <img src="me.jpg" alt="me" width="100%" />
 
