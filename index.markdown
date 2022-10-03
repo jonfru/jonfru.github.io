@@ -50,6 +50,9 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) exp
  width="100%" height="100%" 
  scrolling="no" title="Symmetric Pattern Generator - Wallpaper Group p6m" src="https://www.geogebra.org/material/iframe/id/uu6a2zt2/width/1085/height/967/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false"> </iframe>
 </div>
+<p style="text-align:center;">
+         (works on mobile devices - drag the point on the big triangle)
+     </p>
 
 ---
 I am also interested in insects, arachnids, reptiles and other small animals. I have a colony of short-fingered sand geckos (*Stenodactylus sthenodactylus*) and dabble in macro photography.
