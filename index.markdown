@@ -30,7 +30,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 
 - I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya) teaching linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 
-<figure style=position:relative>
+<figure position="relative">
 <div style="position:relative;padding-bottom:90%;">
  <iframe style="width:100%;height:100%;position:absolute;border:0px;"
  width="100%" height="100%" 
