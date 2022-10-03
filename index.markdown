@@ -1,6 +1,6 @@
 ---
 title: Jonathan Fruchter
-layout: default
+layout: page
 ---
 ## Jonathan Fruchter
 :email: <TT> fruchter [at] maths.ox.ac.uk </TT>
