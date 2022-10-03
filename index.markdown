@@ -7,7 +7,7 @@ layout: page
     <style>
         h1{text-align: right;}
     </style>
-<TT> fruchter [at] maths.ox.ac.uk </TT> <h1>asdf</h1>
+✉  <TT> fruchter [at] maths.ox.ac.uk </TT> <h1>asdf</h1>
 <img src="me.jpg" alt="me" width="100%" />
 
 Fourth year DPhil student at the University of Oxford working under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/).\
