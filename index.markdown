@@ -36,6 +36,7 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) for
  width="100%" height="100%" 
  scrolling="no" title="Symmetric Pattern Generator - Wallpaper Group p6m" src="https://www.geogebra.org/material/iframe/id/uu6a2zt2/width/1085/height/967/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false"> </iframe>
 </div>
+
 ---
 I am also interested in insects, arachnids, reptiles and other small animals. I keep a colony of short-fingered sand geckos (*Stenodactylus sthenodactylus*) and dabble at macro photography.
 
