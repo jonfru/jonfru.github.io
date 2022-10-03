@@ -7,7 +7,7 @@ layout: default
 
 <img src="me.jpg" alt="me" width="100%">
 
-
+---
 Fourth year DPhil student at the University of Oxford working under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/).\
 I am a Clarendon Scholar and the recipient of the John Moussouris scholarship in mathematics (through Merton College).\
 I completed my master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). 
