@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Jonathan Fruchter
 #Jonathan Fruchter
 #theme: minima
