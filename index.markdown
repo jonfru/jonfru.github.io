@@ -42,5 +42,5 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;border:0px;"
  width="100%" height="100%" 
  scrolling="no" title="Symmetric Pattern Generator - Wallpaper Group p6m" src="https://www.geogebra.org/material/iframe/id/uu6a2zt2/width/1085/height/967/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false"> </iframe>
-
+\
 I am also interested in insects, arachnids, reptiles and other small animals. I keep a colony of short-fingered sand geckos (*Stenodactylus sthenodactylus*) and take pictures of insects when the weather is nice.
