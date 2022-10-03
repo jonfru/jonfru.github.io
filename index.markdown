@@ -25,6 +25,8 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 - I am a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23. 
 
 - I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya) teaching linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
+---
+I enjoy when mathematics and visual arts come together and I co-produced the *Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford as 
 
 
 <div style="position:relative;padding-bottom:90%;">
@@ -36,4 +38,4 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 
 I am also interested in insects, arachnids, reptiles and other small animals. I keep a colony of short-fingered sand geckos (*Stenodactylus sthenodactylus*) and dabble at macro photography.
 
-<img src="gec1.jpg" style="width:20%"><img src="gec2.jpg" style="width:20%"><img src="gec3.jpg" style="width:20%"><img src="ins1.jpg" style="width:20%"><img src="ins2.jpg" style="width:20%">
+<a href="gec1.jpg><img src="gec1.jpg" style="width:20%"></a><a href="gec2.jpg><img src="gec2.jpg" style="width:20%"></a><a href="gec3.jpg><img src="gec3.jpg" style="width:20%"></a><a href="ins1.jpg><img src="ins1.jpg" style="width:20%"></a><a href="ins2.jpg><img src="ins2.jpg" style="width:20%"></a>
