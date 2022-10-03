@@ -28,7 +28,7 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 - I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya) teaching linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 
 <div style="position:relative;padding-bottom:90%;">
- <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;border:0px;"
+ <iframe style="width:100%;height:100%;border:0px;"
  width="100%" height="100%" 
  scrolling="no" title="Symmetric Pattern Generator - Wallpaper Group p6m" src="https://www.geogebra.org/material/iframe/id/uu6a2zt2/width/1085/height/967/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false"> </iframe>
 
