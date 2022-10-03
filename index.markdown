@@ -25,7 +25,13 @@ I completed my master's degrees at the Hebrew University of Jerusalem under the 
 My research is in geometric group theory and I my work explores connections between geometry, topology and profinite rigidity. \
 I am also interested in model theory and mathematical logic (from a group theoretic point of view). \
 \
-*Research papers:*
+**Research papers:**
+>Characterising surface groups by their virtual second betti number (with an appendix by [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales). \
+Preprint [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
+
+>Limit groups over coherent right-angled Artin groups are cyclic subgroup separable. \
+To appear in the Michigan Mathematical Journal [(arXiv:2101.10458)](https://arxiv.org/abs/2101.10458)
+
 >Formal solutions and the first-order theory of acylindrically hyperbolic groups, with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html). \
 Journal of the London Mathematical Society 105-2 (2022), 1012-1072. [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
 
