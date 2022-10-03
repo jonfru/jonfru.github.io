@@ -4,6 +4,7 @@
   }
 </style>
 
+<title> Jonathan Fruchter </title>
 
 <img src="me.jpg" alt="me" width="100%" />
 
