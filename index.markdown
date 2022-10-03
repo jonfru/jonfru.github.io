@@ -18,10 +18,10 @@ theme: minima
 
 Fourth year DPhil student at the University of Oxford working under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/).\
 I am a Clarendon Scholar and the recipient of the John Moussouris scholarship in mathematics (through Merton College).\
-I completed my master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). \
+I completed my master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). 
 
 My research is in **geometric group theory** and my work explores connections between geometry, topology and profinite rigidity. \
-I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). \
+I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). 
 
 ## **Research papers:**
 >Characterising surface groups by their virtual second betti number, *with an appendix by [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
