@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Jonathan Fruchter
 ---
 <style>
   .footer {
