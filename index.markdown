@@ -1,3 +1,7 @@
+---
+title: Jonathan Fruchter
+layout: home
+---
 <style>
   .footer {
     display: none;
