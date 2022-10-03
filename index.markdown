@@ -38,5 +38,4 @@ To appear in the *Michigan Mathematical Journal* [(arXiv:2101.10458)](https://ar
 </div>
   
 I am also interested in insects, arachnids, reptiles and other small animals. I keep a colony of short-fingered sand geckos (*Stenodactylus sthenodactylus*) and photograph insects when the weather is nice.
-![](/gec1.jpg){width=20%}
-  
+<img srf="/gec1.jpg" width=20%>  
