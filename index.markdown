@@ -2,11 +2,6 @@
 title: Jonathan Fruchter
 layout: default
 ---
-<style>
-  .footer {
-    display: none;
-  }
-</style>
 <img src="me.jpg" alt="me" width="100%">
 :email:  <TT> fruchter [at] maths.ox.ac.uk </TT>
 
