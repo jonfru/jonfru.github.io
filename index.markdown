@@ -8,7 +8,8 @@ theme: minima
   .footer {
     display: none;
   }
-  
+</style>
+<style>
   .header {
     display: none;
   }
