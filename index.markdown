@@ -10,6 +10,7 @@ I completed my master's degree at the Hebrew University of Jerusalem under the s
 
 My research is in **geometric group theory** and my work explores connections between geometry, topology and profinite rigidity. \
 I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). 
+
 ---
 ## **Research papers:**
 >Characterising surface groups by their virtual second betti number, *with an appendix by [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
