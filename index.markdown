@@ -20,7 +20,7 @@ I am a Clarendon Scholar and the recipient of the John Moussouris scholarship in
 I completed my master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). 
 
 My research is in **geometric group theory** and my work explores connections between geometry, topology and profinite rigidity. \
-I am also interested in model theory and mathematical logic (mostly from a group theoretic point of view). 
+I am also interested in model theory and the first-order theory of groups. 
 
 ---
 ### **Research papers:**
