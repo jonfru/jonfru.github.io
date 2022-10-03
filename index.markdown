@@ -38,4 +38,4 @@ I enjoy when mathematics and visual arts come together and in '20-21 I volunteer
 ---
 I am also interested in insects, arachnids, reptiles and other small animals. I keep a colony of short-fingered sand geckos (*Stenodactylus sthenodactylus*) and dabble at macro photography.
 
-<a href="/gec1.jpg><img src="gec1.jpg" style="width:20%"></a><a href="gec2.jpg><img src="gec2.jpg" style="width:20%"></a><a href="gec3.jpg><img src="gec3.jpg" style="width:20%"></a><a href="ins1.jpg><img src="ins1.jpg" style="width:20%"></a><a href="ins2.jpg><img src="ins2.jpg" style="width:20%"></a>
+<a href="file:///gec1.jpg><img src="gec1.jpg" style="width:20%"></a><a href="gec2.jpg><img src="gec2.jpg" style="width:20%"></a><a href="gec3.jpg><img src="gec3.jpg" style="width:20%"></a><a href="ins1.jpg><img src="ins1.jpg" style="width:20%"></a><a href="ins2.jpg><img src="ins2.jpg" style="width:20%"></a>
