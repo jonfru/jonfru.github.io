@@ -2,6 +2,9 @@
 title: Jonathan Fruchter
 layout: page
 ---
+<head>
+         <meta name="google-site-verification" content="-mGxcUaYTKGnWj_-XQcCB9k2Ms8T3GVb8lqUhAakT8k" />
+</head>
 # Jonathan Fruchter
 <p style="text-align:left;">
          📧 <TT> fruchter [at] maths.ox.ac.uk </TT> 
