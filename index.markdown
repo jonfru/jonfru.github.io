@@ -3,7 +3,7 @@
 title: Jonathan Fruchter
 layout: page
 ---
-# Jonathan Fruchter2
+# Jonathan Fruchter
 <p style="text-align:left;">
          📧 <TT> fruchter [at] maths.ox.ac.uk </TT> 
      <span style="float:right;">
