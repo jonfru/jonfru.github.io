@@ -1,11 +1,9 @@
 ---
 title: Jonathan Fruchter
 layout: page
+<meta name="google-site-verification" content="-mGxcUaYTKGnWj_-XQcCB9k2Ms8T3GVb8lqUhAakT8k" />
 ---
-<head>
-         <meta name="google-site-verification" content="-mGxcUaYTKGnWj_-XQcCB9k2Ms8T3GVb8lqUhAakT8k" />
-</head>
-# Jonathan Fruchter1
+# Jonathan Fruchter2
 <p style="text-align:left;">
          📧 <TT> fruchter [at] maths.ox.ac.uk </TT> 
      <span style="float:right;">
