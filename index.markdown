@@ -1,7 +1,7 @@
+<meta name="google-site-verification" content="-mGxcUaYTKGnWj_-XQcCB9k2Ms8T3GVb8lqUhAakT8k" />
 ---
 title: Jonathan Fruchter
 layout: page
-google-site-verification: -mGxcUaYTKGnWj_-XQcCB9k2Ms8T3GVb8lqUhAakT8k
 ---
 # Jonathan Fruchter2
 <p style="text-align:left;">
