@@ -16,10 +16,9 @@ layout: page
 ---
 Postdoctoral research associate at the University of Bonn, working in [Giles Gardam](https://www.gilesgardam.com/)'s team.
 
-I completed my DPhil at the University of Oxford, under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/).
+I completed my DPhil at the University of Oxford, under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/). Before that, I obtained my master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). 
 
 [comment]: #I am a Clarendon Scholar and the recipient of the John Moussouris scholarship in mathematics (through Merton College).\
-Before that, I obtained my master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). 
 
 My research is in **geometric group theory** and my work explores connections between geometry, topology and profinite rigidity. I also work with group rings of infinite groups, with a focus on the Kaplansly conjectures.\
 In addition, I am interested in model theory and the first-order theory of groups. 
