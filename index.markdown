@@ -25,8 +25,18 @@ In addition, I am interested in model theory and the first-order theory of group
 
 ---
 ### **Research papers:**
->Virtual homology of residually free groups and profinite rigidity of direct products, *with [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
-Preprint [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
+
+>Filling curves in profinite surfaces. \
+*In preparation*.
+
+>Profinite detection of relative free splittings, *with [Lars Louder](https://www.ucl.ac.uk/~ucahllo/) and [Henry Wilton](https://www.dpmms.cam.ac.uk/~hjrw2/)*. \
+*In preparation*.
+
+>Virtual homological torsion in limit groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
+*In preparation*.
+
+>Virtual homology of limit groups and profinite rigidity of direct products, *with [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
+To appear in the *Israel Journal of Mathematics* [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
 
 >Limit groups over coherent right-angled Artin groups are cyclic subgroup separable. \
 *Michigan Mathematical Journal **73**-5 (2023): 909-923* [(journal version)](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-73/issue-5/Limit-Groups-over-Coherent-Right-Angled-Artin-Groups-Are-Cyclic/10.1307/mmj/20216031.short) [(arXiv:2101.10458)](https://arxiv.org/abs/2101.10458)
@@ -36,6 +46,8 @@ Preprint [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
 
 ---
 ### **Teaching:**
+- This semester (Winter Semester 2024-2025) I am giving a lecture course titled "Groups, Geometry and Logic" (Module V5D4 - Selected Topics in Geometry). The course revolves mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are updated regularly.
+
 - In 2022-2023 I was a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23 and A4: Integration in Hilary '23. 
 
 - Before that I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya). I taught linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
