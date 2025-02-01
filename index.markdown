@@ -46,7 +46,7 @@ To appear in the *Israel Journal of Mathematics* [(arXiv:2209.14925)](https://ar
 
 ---
 ### **Teaching:**
-- This semester (Winter Semester 2024-2025) I am giving a lecture course titled "Groups, Geometry and Logic" (Module V5D4 - Selected Topics in Geometry). The course revolves mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are updated regularly.
+- In Winter Semester 2024-2025 I gave a lecture course titled "Groups, Geometry and Logic" (Module V5D4 - Selected Topics in Geometry). The course revolved mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are available.
 
 - In 2022-2023 I was a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23 and A4: Integration in Hilary '23. 
 
