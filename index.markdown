@@ -25,15 +25,8 @@ In addition, I am interested in model theory and the first-order theory of group
 
 ---
 ### **Research papers:**
-
->Filling curves in profinite surfaces. \
-*In preparation*.
-
->Profinite detection of relative free splittings, *with [Lars Louder](https://www.ucl.ac.uk/~ucahllo/) and [Henry Wilton](https://www.dpmms.cam.ac.uk/~hjrw2/)*. \
-*In preparation*.
-
->Virtual homological torsion in limit groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
-*In preparation*.
+>Virtual homological torsion in graphs of free groups with cyclic edge groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
+[arXiv:2505.20960](https://arxiv.org/abs/2505.20960), *Submitted*.
 
 >Virtual homology of limit groups and profinite rigidity of direct products, *with [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
 To appear in the *Israel Journal of Mathematics* [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
