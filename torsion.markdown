@@ -7,13 +7,17 @@ layout: page
 #### Extended abstract to accompany a poster presented at the William Rowan Hamilton Geometry and Topology Workshop, celebrating Martin Bridson’s 60th birthday
 
 ---
+In 2013, Hongbin Sun proved that homological torsion is remarkably abundant in finite covers of closed hyperbolic 3-manifolds. Specifically, given a closed, hyperbolic 3-manifold $M$, for every finite abelian group $A$ there exists a finite cover $M’_A$ of $M$ such that $A$ appears as a direct summand of $H_1(M'_A)$. Groves and Chu later extended this result to most finite-volume hyperbolic 3-manifolds with empty or toroidal boundary.
 
-motivation and main theorem
->**Theorem:** bla bla
+While these results stop short of proving the exponential torsion growth conjecture, they show that the geometry of $M$ can be leveraged to produce a wide range of torsion in the homology of its finite covers. The core of the argument involves immersing 2-complexes $X_p$ with $H_1(X_p) = \mathbb{Z}^n \oplus \mathbb{Z}/p\mathbb{Z}$—essentially surfaces with boundary, modified by attaching a $p$-th root of the boundary loops—into $M$, combining them via a ping-pong construction, and then pushing their homology into that of a finite cover via a virtual retraction.
+
+In this project, we investigate whether analogous torsion phenomena arise in a different context: hyperbolic groups that split as graphs of free groups with cyclic edge groups. This class often mirrors behavior found in 3-manifold topology, and here too, we find a strong analogue:
+
+>**Theorem:** Let $G$ be a hyperbolic group that splits as a graph of free groups with cyclic edge groups, and that is not isomorphic to a free product of free and surface groups. Then for every finite abelian group $M$, there exists a finite-index subgroup $H \le  G$ such that $M$ is a direct summand of the abelianization $H^{ab}$ of $H$.
 
 test case - branched surfaces - add table for the picture
 
-start with ``triple branched surface'' - three surfaces, each with $b$ boundary components, glued together like in the picture. 
+start with "triple branched surface" - three surfaces, each with $b$ boundary components, glued together like in the picture. 
 
 >**Example** $b=2$, we choose $\mathbb{Z}/2 \mathbb{Z} \oplus \mathbb{Z} / 3\mathbb{Z}$. we do bla bla bla
 
@@ -26,7 +30,7 @@ then philosophy about Wilton - not free means... Then say not a free product of 
 1) there are 3 things glued together - add a picture. In this case, up to some acrobatics with finite covers etc, it's easy to get the result (add picture again).
 2) there is a rigid vertex.
 
-If we are in case 2 (and not case 1), things are trickier. For this we embed two different surfaces within a rigid vertex, and use them to mimic branching. We call such a piece ``artificial branching''. -- Here should probably say something about Wilton's rigid theorem...
+If we are in case 2 (and not case 1), things are trickier. For this we embed two different surfaces within a rigid vertex, and use them to mimic branching. We call such a piece "artificial branching". -- Here should probably say something about Wilton's rigid theorem...
 
 Suppose that the two surfaces were embedded - intersecting only at the boundaries. Then we are exactly at the previous case. In general, this gives us an obvious map from a branched surface to our group - replace the rigid vertex with $S_1 \sqcup S_2$. A key observation here is that in order to obtain an injective map on the torsion part of the abelianization, all that we need is that if $b_1,\ldots,b_k$ are the boundaries shared between the surfaces, then $[b_1],\ldots,[b_k]$ generate a rank-$k$ direct summand in the abelianization of $H$ (the rigid vertex).
 
