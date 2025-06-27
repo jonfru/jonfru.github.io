@@ -29,6 +29,48 @@ In this project, we investigate whether analogous torsion phenomena arise in a d
 
 >**Theorem:** Let $G$ be a hyperbolic group that splits as a graph of free groups with cyclic edge groups, and that is not isomorphic to a free product of free and surface groups. Then for every finite abelian group $M$, there exists a finite-index subgroup $H \le  G$ such that $M$ is a direct summand of the abelianization $H^{ab}$ of $H$.
 
+The strategy behind our proof diverges quite a bit from the 3-manifold case. There, geometry does much of the work. Here, we lean more on combinatorics: the structure of graphs, and more importantly, how local data at vertex groups shapes the global behavior of the whole group.
+
+Instead of attaching roots to surfaces with boundary, we use a different model for producing homological torsion: *branched surfaces*. These are collections of compact, orientable surfaces with boundary, glued together along their boundary components. Each surface in a branched surface $B$ defines a relation in abelianization—for example, a surface with boundary components $\sigma_1, \ldots, \sigma_k$ contributes an equation of the form 
+
+$$ [\sigma] \pm [\sigma_2] \pm \cdots \pm [\sigma_k] = 0 $$  
+
+in the abelianization of $B$. We refer to these as *$\partial$-equations*. Branched surfaces thus provide a geometric realization of systems of such linear relations.
+
+The first step in our argument is to show that every system of linear equations in a free abelian group is equivalent (in the sense of yielding the same quotient) to one arising from a branched surface. In particular, a simple type of branched surface—three orientable surfaces of positive genus, each with a single boundary component and glued along those boundaries—admits finite covers whose first homology contains arbitrary torsion. We call this a *triple branched surface*.
+
+Note that branched surfaces are themselves graphs of free groups with cyclic edge groups; the fact that any branched surface has a *precover* that is a triple branched surface proves the theorem in this case.
+
+>**Example.** Suppose $B$ is a triple branched surface made up of three surfaces $\Sigma$, $\Theta$, and $\Pi$, each with a single boundary circle identified as a common curve $x$. The table below describes a 4-sheeted cover $B' \to B$ in which $\Sigma$, $\Theta$, and $\Pi$ each lift to two> copies, and the common boundary $x$ lifts to four distinct boundary components $x_1, x_2, x_3, x_4$. A check mark indicates that the boundary of the given surface copy maps to the corresponding lift of $x$. This cover has $H_1(B') \cong \mathbb{Z}^n \oplus \mathbb{Z}/2\mathbb{Z}$.
+<div align="center">
+  
+|           | $\Sigma_1$ | $\Sigma_2$ | $\Theta_1$ | $\Theta_2$ | $\Pi_1$ | $\Pi_2$ |
+|-----------|------------|------------|------------|------------|---------|---------|
+| $x_1$     | ✔          |            | ✔          |            | ✔       |         |
+| $x_2$     | ✔          |            |            | ✔          |         | ✔       |
+| $x_3$     |            | ✔          |            | ✔          | ✔       |         |
+| $x_4$     |            | ✔          | ✔          |            |         | ✔       |
+
+</div>
+
+>(indeed, in $H_1(B')$, we have that $x_1+x_2=x_3+x_4=x_1+x_4=x_2+x_3=x_1+x_3=x_2+x_4=0$, which simplifies to $x_1=x_2=x_3=x_4$ and $2\cdot x_1 = 0$).
+
+Instead of surfaces with roots attached to boundary loops, we use a different model for homological torsion, namely, *branched surfaces*: collections of compact orientable surfaces with boundary, glued together along their boundary components. Each such surface in a branched surface $B$ defines a relation among its boundary curves in abelianization—for instance, such a surface with boundary components $\sigma_1,\ldots,\sigma_k$ contributes an equation of the form
+$$[\sigma_1]\pm [\sigma_2]\pm \cdots \pm [\sigma_k]=0$$
+in the abelianization of $B$. We call these $\partial$-equations; branched surfaces, then, encode systems of such equations geometrically.
+
+The first step in our proof is to show that every system of linear equations in a free abelian group is equivalent (in the sense of yielding the same quotient group) to one coming from a branched surface. In more detail, we show that a "triple branched surface"—three positive genus orientable surfaces with one boundary component each, glued along those boundaries—admits finite covers with arbitrary torsion in homology. Note that each branched surface is itself a hyperbolic graph of free groups with cyclic edge groups; to prove the theorem in this case we therefore show that any branched surface admits a precover that is a "triple branched surface" (or a slight variant where each surface has two boundary components).
+
+>*Example:* suppose that $B$ is a "triple branched surface" comprised of three surfaces $\Sigma$, $\Theta$ and $\Pi$; the following table (which corresponds to the left-half of the covering space in the figure below) explains how to construct a 4-sheeted cover $B'$ of $B$ with $H_1(B)=\mathbb{Z}^n \oplus \mathbb{Z}/2\mathbb{Z}$; the columns of the table represent covers of the three surface pieces, the rows indicate lifts of the common boundary $x$ of $\Sigma$, $\Theta$ and $\Pi$ to $B'$, and a ✔ indicates that a boundary component of the corresponding column is identified with the lift of $x$ corresponding to the row.
+
+| | $\Sigma_1$ | $\Sigma_2$ | $\Theta_1$ | $\Theta_2$ | $\Pi_1$ | $\Pi_2$ |
+| -------- | -------- | ------- | ------- | ------- | ------- | ------- |
+| $x_1$ | ✔ | | ✔ | | ✔ | |
+| $x_2$ | ✔ | | | ✔ | | ✔ |
+| $x_3$ || ✔ | | ✔ | ✔ | |
+| $x_4$ || ✔ | ✔ | | | ✔ |
+
+
 test case - branched surfaces - add table for the picture
 
 start with "triple branched surface" - three surfaces, each with $b$ boundary components, glued together like in the picture. 
