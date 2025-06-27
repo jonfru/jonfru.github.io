@@ -3,6 +3,20 @@ title: Virtual homological torsion in graphs of free groups with cyclic edge gro
 layout: page
 ---
 
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
 # **Virtual homological torsion in graphs of free groups with cyclic edge groups** *(j/w [Dario Ascari](https://sites.google.com/view/dario-ascari))*
 #### Extended abstract to accompany a poster presented at the William Rowan Hamilton Geometry and Topology Workshop, celebrating Martin Bridson’s 60th birthday
 
