@@ -151,42 +151,8 @@ To overcome this issue, we build *artificial branching blocks* - precovers of $G
 Combining this with Wilton's construction of surfaces with prescribed boundary in a free group, we obtain many surfaces that embed in $F$ with overlapping boundaries as the following illustration suggests:
 
 <div align="center">
-  <img src="branch.png" style="max-width: 100%; width: 600px;" />
+  <img src="branch.png" style="max-width: 100%; width: 700px;" />
 </div>
 
+It would now be tempting now to replace one copy of $F$ with a surface, and the other copy of $F$ with two of the surfaces in the picture above (say, those with boundary $v_2,v_3,v_4$ and $v_1,v_3,v_4$), creating artificial branching and repeating the construction described for branched surfaces (which would result in $v_3+v_4$ being a torsion element in the abelianization of a finite cover of $G=F\ast_{w} F).$ 
 
-so we proved the case of branched surfaces - and as a result, since hyperbolic graphs of free groups with cyclic edges admit local retractions, to prove the result in the general case, it is enough to find a branched surface inside such $G$. Wilton showed that unless $G$ is free, then it must contain a surface subgroup. More precisely, he proved the following theorem:
->**Theorem [Wilton '18]:** fill in later
-
-The surfaces produced by Wilton's theorem can be combined to form a surface inside $G$. In his proof, Wilton used the fact that $G$ is not free as a lower complexity bound on links of vertices in a graph of spaces decomposition of $G$. More specifically, if $G$ is not free, then it contains a one-ended graph of free groups with cyclic edges $G'$, in which by an old theorem of Shanitzer every vertex group is freely decomposable relative to the adjacent edge groups. Wilton's theorem above can be applied to each vertex, and the resulting surfaces can be combined to build a surface subgroup of $G$. In our case, the assumption that $G$ is not a free product of free and surface groups, gives a sharper lower bound on the complexity of $G$. This complexity bound can appear in one of two forms:
-1. three different cyclic subgroups of $G$ are identified. In this case the underlying graph of $G$ exhibits a "branching behaviour", and one can replace each vertex group with a surface as in Wilton's theorem to construct a branched surface inside $G$.
-2. The cyclic JSJ decomposition of $G$ contains a rigid vertex.
-
-Case 2. above is much harder to deal with, and the bulk of our proof is devoted to this case.
-
----
-
-
-start with "triple branched surface" - three surfaces, each with $b$ boundary components, glued together like in the picture. 
-
->**Example** $b=2$, we choose $\mathbb{Z}/2 \mathbb{Z} \oplus \mathbb{Z} / 3\mathbb{Z}$. we do bla bla bla
-
-
-Then start with Wilton - metnion Wilton and Calegari - and say that there are surfaces immersing etc which allow us to build a precover (space that can be completed to a finite-sheeted cover) that does what we want.
->**Theorem:** [Wilton]...
-
-then philosophy about Wilton - not free means... Then say not a free product of free and surface groups - manifests in one of two ways
-
-1) there are 3 things glued together - add a picture. In this case, up to some acrobatics with finite covers etc, it's easy to get the result (add picture again).
-2) there is a rigid vertex.
-
-If we are in case 2 (and not case 1), things are trickier. For this we embed two different surfaces within a rigid vertex, and use them to mimic branching. We call such a piece "artificial branching". -- Here should probably say something about Wilton's rigid theorem...
-
-Suppose that the two surfaces were embedded - intersecting only at the boundaries. Then we are exactly at the previous case. In general, this gives us an obvious map from a branched surface to our group - replace the rigid vertex with $S_1 \sqcup S_2$. A key observation here is that in order to obtain an injective map on the torsion part of the abelianization, all that we need is that if $b_1,\ldots,b_k$ are the boundaries shared between the surfaces, then $[b_1],\ldots,[b_k]$ generate a rank-$k$ direct summand in the abelianization of $H$ (the rigid vertex).
-
-To obtain that we use a minimality argument, which crucially relies on Calegari's proof that *stable commutator length* is rational in free groups. The precise form of the theorem that we use is the following:
->**Theorem:** [Calegari]...
-
-Then give a short explanation of minimality.
-
-Seal the deal by saying that we can now use an artificial branching piece as in the branched surface case
