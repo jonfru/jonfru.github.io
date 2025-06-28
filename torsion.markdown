@@ -117,17 +117,18 @@ Many of the constructions described here are somewhat delicate, often requiring 
 </sup>
 
 Having established the result for branched surfaces—and given that hyperbolic graphs of free groups with cyclic edge groups admit local retractions—it now suffices to find a branched surface inside such a group $G$ (as we will see, it is unclear whether this is always possible). This reduces the general case to a geometric problem: constructing a branched surface within $G$. Wilton proved that, unless $G$ is free, it must contain a surface subgroup. In particular, he proves:
+
 >Theorem (Wilton '18): Let $F$ be a free group which is freely indecomposable relative to $w_1,\ldots,w_n \in F$. Then there is a surface with boundary $\Sigma$ and an embedding $f:\pi_1(\Sigma)\hookrightarrow F$ such that
->- the image of every component of $\partial(\Sigma)$ is an elevation of some $w_i$ to $f(\pi_1(\Sigma))\le F$. and
+>- the image of every component of $\partial(\Sigma)$ is an elevation of some $w_i$ to $f(\pi_1(\Sigma))\le F,$ and
 >- the total degree of the elevations of $w_i$ to $f(\pi_1(\Sigma))$ is uniform across all $i\le n$.
 
 This is often better explain by means of a pullback diagram:
 
 <div align="center">
-  <img src="diag.png" style="max-width: 100%; width: 400px;" />
+  <img src="diag.png" style="max-width: 100%; width: 700px;" />
 </div>
 
-In Wilton's proof, the non-freeness of $G$ serves as a lower bound on the complexity of vertex links in a graph of spaces decomposition of $G$. Specifically, if $G$ is not free, then it contains a one-ended graph of free groups with cyclic edge groups, say $G'$, in which—by an old result of Shanitzer—every vertex group is freely indecomposable relative to the incident edge groups. Wilton’s theorem applies to each such vertex, and the resulting surfaces can be glued together to produce a global surface subgroup inside $G$.
+In Wilton's proof, the non-freeness of $G$ serves as a lower bound on the complexity of vertex links in a graph of spaces decomposition of $G.$ Specifically, if $G$ is not free, then it contains a one-ended graph of free groups with cyclic edge groups, say $G'$, in which—by an old result of Shanitzer—every vertex group is freely indecomposable relative to the incident edge groups. Wilton’s theorem applies to each such vertex, and the resulting surfaces can be glued together to produce a global surface subgroup inside $G$.
 
 In our setting, the hypothesis that $G$ is not a free product of free and surface groups (in which case, the abelianization of every finite-index subgroup of $G$ is always a free abelian group) yields a sharper complexity threshold, which can manifest in one of two ways:
 
@@ -146,13 +147,22 @@ To overcome this issue, we build *artificial branching blocks* - precovers of $G
 
 >**Theorem [Wilton '11]**: Let $F$ be a free group and let $w_1,\ldots,w_n \in F$ such that $F$ does not split over $\mathbb{Z}$ relative to $w_1,\ldots,w_n$. Then there is a finite-index subgroup $F'\le F$ satisfying the following property:
 >
->If $v_1,\ldots,v_k$ are the elevations of $w_1,\ldots,w_n$ to $F'$, then $F'$ is freely indecomposable relative to $\{v_1,\ldots,v_k\} \setminus \{v_i\}$ for every $i\le k.$
+>If $v_1,\ldots,v_k$ are the elevations of $w_1,\ldots,w_n$ to $F'$, then $F'$ is freely indecomposable relative to $`\{ v_1,\ldots,v_k\} \setminus \{v_i\}`$ for every $i\le k.$
 
 Combining this with Wilton's construction of surfaces with prescribed boundary in a free group, we obtain many surfaces that embed in $F$ with overlapping boundaries as the following illustration suggests:
 
 <div align="center">
-  <img src="branch.png" style="max-width: 100%; width: 700px;" />
+  <img src="branch.png" style="max-width: 100%; width: 900px;" />
 </div>
 
-It would now be tempting now to replace one copy of $F$ with a surface, and the other copy of $F$ with two of the surfaces in the picture above (say, those with boundary $v_2,v_3,v_4$ and $v_1,v_3,v_4$), creating artificial branching and repeating the construction described for branched surfaces (which would result in $v_3+v_4$ being a torsion element in the abelianization of a finite cover of $G=F\ast_{w} F).$ 
+It would now be tempting now to replace one copy of $F$ with a surface, and the other copy of $F$ with two of the surfaces in the picture above (say, those with boundary $v_2,v_3,v_4$ and $v_1,v_3,v_4$), creating "artificial branching" around $v_3$ and $v_4$. To finish, one would just need to repeat the construction described for branched surfaces, which would result in $v_3+v_4$ being a torsion element in the abelianization of a finite cover of $G=F\ast_{w} F$ (or alternatively, a map from a branched surface $B$ to $G$ which induces an injection on $\mathrm{Tor}(B^{ab})).$
 
+However, a simple replacement is dangerous. Wilton's surfaces are obtained by means of linear optimization, and therefore do not admit an explicit description. Controlling how two such surfaces interact is difficult, and *a priori* it could be that the aforementioned torsion element $v_3+v_4$ is trivial in the abelianization.
+
+To avoid this, we turn to use Calegari's construction of surfaces inside free groups (also known as the *rationality theorem for stable commutator length*), which we state below in a non-standard form (that is suited to our purpose):
+
+>**Theorem [Calegari '09]**: Suppose that $w_1,\ldots,w_n \in F$ satisfy a non-trivial equation $\sum_{i=1}^n \lambda_i \cdot w_i = 0$ in $F^{ab}$. Then there is a surface with boundary $\Sigma$ and an embedding $f:\pi_1(\Sigma)\hookrightarrow F$ such that
+>- the image of every component of $\partial(\Sigma)$ is an elevation of some $w_i$ to $f(\pi_1(\Sigma))\le F,$ and
+>- for every $i$, if $\lambda_i \ne 0$ then $w_i$ admits a lift which is a boundary component of $f(\Sigma).$
+
+Now, back to our construction. If we had that $v_3+v_4=0$ in $F'^{ab}$, Calegari's theorem would provide us with a surface whose boundary is supported on lifts of $v_3$ and $v_4$. This observation opens the way for a minimality argument, picking surfaces such that no subcollection of their boundary components support the boundary of another surface. This assures that the elements supporting the "artificial branching" do not vanish in the abelianization, and allows us to complete the proof.
