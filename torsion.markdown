@@ -141,28 +141,33 @@ The second case is a lot more subtle, and most of our efforts are directed towar
 ---
 ### Artificial branching
 
-Suppose now that the underlying graph of $G$ does not contain branching behavior, and therefore must contain a rigid vertex. A good example to keep in mind here is the double $F\ast_{w} F$ of a free group along a complicated word $w$ (e.g. a word whose Whitehead graph is a complete multigraph where each edge appears at least twice). In this case, the aforementioned splitting of $G$ coincides with its JSJ decomposition, and replacing each vertex with a surface with compatible boundary results in a closed surface and not a branched surface.
+Suppose we are in case 2, so that the underlying graph of $G$ lacks branching behavior, forcing the presence of a rigid vertex. A simple example to keep in mind is the double $F\ast_{w} F$ of a free group $F$ along a complicated word $w$ (for example, one whose Whitehead graph is a complete multigraph with each edge appearing at least twice). Here, the aforementioned splitting of $G$ coincides with its JSJ decomposition (which consists of two rigid vertices), and replacing vertices by surfaces with compatible boundaries yields an honest closed surface, not a branched one (as in the first case).
 
-To overcome this issue, we build *artificial branching blocks* - precovers of $G$ that mimic the behaviour of a branched surface, and allow us to get maps from branched surfaces into $G$. To do so, we exploit another theorem of Wilton's, which says that rigid vertices form a strong form of one-endedness:
+To navigate this, we construct *artificial branching blocks*: precovers of $G$ that simulate branched surface behavior and allow branched surfaces to map to $G.$ The key tool is a theorem of Wilton’s, which shows that rigid vertices satisfy  a strong form of one-endedness:
 
 >**Theorem [Wilton '11]**: Let $F$ be a free group and let $w_1,\ldots,w_n \in F$ such that $F$ does not split over $\mathbb{Z}$ relative to $w_1,\ldots,w_n$. Then there is a finite-index subgroup $F'\le F$ satisfying the following property:
 >
 >If $v_1,\ldots,v_k$ are the elevations of $w_1,\ldots,w_n$ to $F'$, then $F'$ is freely indecomposable relative to $`\{ v_1,\ldots,v_k\} \setminus \{v_i\}`$ for every $i\le k.$
 
-Combining this with Wilton's construction of surfaces with prescribed boundary in a free group, we obtain many surfaces that embed in $F$ with overlapping boundaries as the following illustration suggests:
+Combining this with Wilton’s construction of surfaces with prescribed boundary in free groups produces many surfaces embedded in $F$ with overlapping boundaries, as illustrated below:
 
 <div align="center">
   <img src="branch.png" style="max-width: 100%; width: 900px;" />
 </div>
 
-It would now be tempting now to replace one copy of $F$ with a surface, and the other copy of $F$ with two of the surfaces in the picture above (say, those with boundary $v_2,v_3,v_4$ and $v_1,v_3,v_4$), creating "artificial branching" around $v_3$ and $v_4$. To finish, one would just need to repeat the construction described for branched surfaces, which would result in $v_3+v_4$ being a torsion element in the abelianization of a finite cover of $G=F\ast_{w} F$ (or alternatively, a map from a branched surface $B$ to $G$ which induces an injection on $\mathrm{Tor}(B^{ab})).$
+A tempting next step is to replace one copy of $F$ by a surface (arising from Wilton's theorem), and the other by two of these overlapping surfaces (e.g., those with boundary $v2,v3,v4$​ and $v1,v3,v4$​), creating *artificial branching* around $v_3$​ and $v4.$ Then, the construction for branched surfaces applies, resulting in $v3+v4$​ becoming torsion in the abelianization of a finite cover of $G=F\ast_{w} F,$ (or alternatively, a map from a branched surface $B$ to $G$ which induces an injection on $\mathrm{Tor}(B^{a
 
-However, a simple replacement is dangerous. Wilton's surfaces are obtained by means of linear optimization, and therefore do not admit an explicit description. Controlling how two such surfaces interact is difficult, and *a priori* it could be that the aforementioned torsion element $v_3+v_4$ is trivial in the abelianization.
+However, this naive replacement is risky. Wilton’s surfaces arise via linear optimization and lack explicit descriptions. Controlling their interaction is subtle, and the torsion element $v3+v4$​ could conceivably vanish in the abelianization.
 
-To avoid this, we turn to use Calegari's construction of surfaces inside free groups (also known as the *rationality theorem for stable commutator length*), which we state below in a non-standard form (that is suited to our purpose):
+To avoid this, we turn to Calegari's construction of surfaces inside free groups (also known as the *rationality theorem for stable commutator length*), stated below in a form suited for our needs:
 
->**Theorem [Calegari '09]**: Suppose that $w_1,\ldots,w_n \in F$ satisfy a non-trivial equation $\sum_{i=1}^n \lambda_i \cdot w_i = 0$ in $F^{ab}$. Then there is a surface with boundary $\Sigma$ and an embedding $f:\pi_1(\Sigma)\hookrightarrow F$ such that
+>**Theorem [Calegari '09]**: Suppose that $w_1,\ldots,w_n \in F$ satisfy a non-trivial equation
+>
+>$$\sum_{i=1}^n \lambda_i \cdot w_i = 0$$
+>
+>in $F^{ab}.$
+>Then there is a surface with boundary $\Sigma$ and an embedding $f:\pi_1(\Sigma)\hookrightarrow F$ such that
 >- the image of every component of $\partial(\Sigma)$ is an elevation of some $w_i$ to $f(\pi_1(\Sigma))\le F,$ and
 >- for every $i$, if $\lambda_i \ne 0$ then $w_i$ admits a lift which is a boundary component of $f(\Sigma).$
 
-Now, back to our construction. If we had that $v_3+v_4=0$ in $F'^{ab}$, Calegari's theorem would provide us with a surface whose boundary is supported on lifts of $v_3$ and $v_4$. This observation opens the way for a minimality argument, picking surfaces such that no subcollection of their boundary components support the boundary of another surface. This assures that the elements supporting the "artificial branching" do not vanish in the abelianization, and allows us to complete the proof.
+Returning to our setup, if $v3+v4=0$ in $F′^{ab},$ Calegari’s theorem guarantees a surface with boundary supported on lifts of $v3$​ and $v4​.$ This enables a minimality argument, choosing surfaces such that subcollection of their boundary components support the boundary of another surface. In particular, if the surface whose boundary is $v_1,v_3,v_4$ in our example satisfies this property, then $v_3+v_4$ cannot vanish in $F'^{ab}.$ This prevents the artificial branching elements from vanishing in abelianization and completes the proof.
