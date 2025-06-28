@@ -104,7 +104,7 @@ Note that branched surfaces are themselves graphs of free groups with cyclic edg
   </table>
 </div>
 
->Indeed, in $H_1(B')$, we have that $x_1+x_2=x_3+x_4=x_1+x_4=x_2+x_3=x_1+x_3=x_2+x_4=0$, which simplifies to $x_1=x_2=x_3=x_4$ and $2\cdot x_1 = 0$.
+>Indeed, in $H_1(B')$, we have that $x_i+x_j=0$ for every $i<j\le 4$, which simplifies to $x_1=x_2=x_3=x_4$ and $2\cdot x_1 = 0$.
 <div align="center">
   <img src="example.png" style="max-width: 100%; width: 700px;" />
 </div>
