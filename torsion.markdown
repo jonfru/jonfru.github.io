@@ -29,7 +29,7 @@ While these results stop short of proving the exponential torsion growth conject
 
 In this project, we investigate whether analogous torsion phenomena arise in a different context: hyperbolic groups that split as graphs of free groups with cyclic edge groups. This class often mirrors behavior found in 3-manifold topology, and here too, we find a strong analogue:
 
->**Theorem:** Let $G$ be a hyperbolic group that splits as a graph of free groups with cyclic edge groups, and that is not isomorphic to a free product of free and surface groups. Then for every finite abelian group $M$, there exists a finite-index subgroup $H \le  G$ such that $M$ is a direct summand of the abelianization $H^{ab}$ of $H$.
+>**Theorem:** Let $G$ be a hyperbolic group that splits as a graph of free groups with cyclic edge groups, and that is not isomorphic to a free product of free and surface groups. Then for every finite abelian group $M$, there exists a finite-index subgroup $H \le  G$ such that $M$ is a direct summand of the abelianization $H^{ab}$ of $H.$
 
 ---
 ### Branched surfaces and homological torsion
@@ -47,15 +47,67 @@ The first step in our argument is to show that every system of linear equations 
 Note that branched surfaces are themselves graphs of free groups with cyclic edge groups; the fact that any branched surface has a *precover* that is a triple branched surface proves the theorem in this case.
 
 >**Example.** Suppose $B$ is a triple branched surface made up of three surfaces $\Sigma$, $\Theta$, and $\Pi$, each with a single boundary circle identified as a common curve $x$. The table below describes a 4-sheeted cover $B' \to B$ in which $\Sigma$, $\Theta$, and $\Pi$ each lift to two> copies, and the common boundary $x$ lifts to four distinct loops $x_1, x_2, x_3, x_4$. A check mark indicates that the boundary of the given surface copy maps to the corresponding lift of $x$. This cover has $H_1(B') \cong \mathbb{Z}^n \oplus \mathbb{Z}/2\mathbb{Z}$.
+
 <div align="center">
-  
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>$\Sigma_1$</th>
+        <th>$\Sigma_2$</th>
+        <th>$\Theta_1$</th>
+        <th>$\Theta_2$</th>
+        <th>$\Pi_1$</th>
+        <th>$\Pi_2$</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>$x_1$</td>
+        <td>✔</td>
+        <td></td>
+        <td>✔</td>
+        <td></td>
+        <td>✔</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>$x_2$</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+        <td>✔</td>
+        <td></td>
+        <td>✔</td>
+      </tr>
+      <tr>
+        <td>$x_3$</td>
+        <td></td>
+        <td>✔</td>
+        <td></td>
+        <td>✔</td>
+        <td>✔</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>$x_4$</td>
+        <td></td>
+        <td>✔</td>
+        <td>✔</td>
+        <td></td>
+        <td></td>
+        <td>✔</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 |           | $\Sigma_1$ | $\Sigma_2$ | $\Theta_1$ | $\Theta_2$ | $\Pi_1$ | $\Pi_2$ |
 |:-----------:|:------------:|:------------:|:------------:|:------------:|:---------:|:---------:|
 | $x_1$     | ✔          |            | ✔          |            | ✔       |         |
 | $x_2$     | ✔          |            |            | ✔          |         | ✔       |
 | $x_3$     |            | ✔          |            | ✔          | ✔       |         |
 | $x_4$     |            | ✔          | ✔          |            |         | ✔       |
-</div>
 
 >Indeed, in $H_1(B')$, we have that $x_1+x_2=x_3+x_4=x_1+x_4=x_2+x_3=x_1+x_3=x_2+x_4=0$, which simplifies to $x_1=x_2=x_3=x_4$ and $2\cdot x_1 = 0$.
 
