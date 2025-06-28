@@ -26,7 +26,9 @@ layout: page
 In 2013, Hongbin Sun proved that homological torsion is remarkably abundant in finite covers of closed hyperbolic 3-manifolds. Specifically, given a closed, hyperbolic 3-manifold $M$, for every finite abelian group $A$ there exists a finite cover $M’_A$ of $M$ such that $A$ appears as a direct summand of $H_1(M'_A)$. Groves and Chu later extended this result to most finite-volume hyperbolic 3-manifolds with empty or toroidal boundary.
 
 While these results stop short of proving the exponential torsion growth conjecture, they show that the geometry of $M$ can be leveraged to produce a wide range of torsion in the homology of its finite covers. The core of the argument involves immersing 2-complexes $X_p$ with $H_1(X_p) = \mathbb{Z}^n \oplus \mathbb{Z}/p\mathbb{Z}$—essentially surfaces with boundary, modified by attaching a $p$-th root of the boundary loops—into $M$, combining them via a ping-pong argument, and then pushing their homology into that of a finite cover via a virtual retraction.
-
+<div align="center">
+  <img src="Xp.png" style="max-width: 100%; width: 400px;" />
+</div>
 In this project, we investigate whether analogous torsion phenomena arise in a different context: hyperbolic groups that split as graphs of free groups with cyclic edge groups. This class often mirrors behavior found in 3-manifold topology, and here too, we find a strong analogue:
 
 >**Theorem:** Let $G$ be a hyperbolic group that splits as a graph of free groups with cyclic edge groups, and that is not isomorphic to a free product of free and surface groups. Then for every finite abelian group $M$, there exists a finite-index subgroup $H \le  G$ such that $M$ is a direct summand of the abelianization $H^{ab}$ of $H.$
@@ -102,14 +104,10 @@ Note that branched surfaces are themselves graphs of free groups with cyclic edg
   </table>
 </div>
 
-|           | $\Sigma_1$ | $\Sigma_2$ | $\Theta_1$ | $\Theta_2$ | $\Pi_1$ | $\Pi_2$ |
-|:-----------:|:------------:|:------------:|:------------:|:------------:|:---------:|:---------:|
-| $x_1$     | ✔          |            | ✔          |            | ✔       |         |
-| $x_2$     | ✔          |            |            | ✔          |         | ✔       |
-| $x_3$     |            | ✔          |            | ✔          | ✔       |         |
-| $x_4$     |            | ✔          | ✔          |            |         | ✔       |
-
 >Indeed, in $H_1(B')$, we have that $x_1+x_2=x_3+x_4=x_1+x_4=x_2+x_3=x_1+x_3=x_2+x_4=0$, which simplifies to $x_1=x_2=x_3=x_4$ and $2\cdot x_1 = 0$.
+<div align="center">
+  <img src="example.png" style="max-width: 100%; width: 700px;" />
+</div>
 
 ---
 ### The general case
