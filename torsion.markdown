@@ -112,12 +112,21 @@ Note that branched surfaces are themselves graphs of free groups with cyclic edg
 ---
 ### The general case
 
-Having established the result for branched surfaces—and given that hyperbolic graphs of free groups with cyclic edge groups admit local retractions—it now suffices to find a branched surface inside such a group $G$ (as we will see, it is unclear whether this is always possible). This reduces the general case to a geometric problem: constructing a branched surface within $G$. Wilton proved that, unless $G$ is free, it must contain a surface subgroup. More precisely:
+<sup>
+Many of the constructions described here are somewhat delicate, often requiring passage to finite covers to address various complications. We gloss over these technicalities here for the sake of clarity.
+</sup>
 
+Having established the result for branched surfaces—and given that hyperbolic graphs of free groups with cyclic edge groups admit local retractions—it now suffices to find a branched surface inside such a group $G$ (as we will see, it is unclear whether this is always possible). This reduces the general case to a geometric problem: constructing a branched surface within $G$. Wilton proved that, unless $G$ is free, it must contain a surface subgroup. In particular, he proves:
 >Theorem (Wilton '18): Let $F$ be a free group which is freely indecomposable relative to $w_1,\ldots,w_n \in F$. Then there is a surface with boundary $\Sigma$ and an embedding $f:\pi_1(\Sigma)\hookrightarrow F$ such that
 >- the image of every component of $\partial(\Sigma)$ is an elevation of some $w_i$ to $f(\pi_1(\Sigma))\le F$. and
 >- the total degree of the elevations of $w_i$ to $f(\pi_1(\Sigma))$ is uniform across all $i\le n$.
- 
+
+This is often better explain by means of a pullback diagram:
+
+<div align="center">
+  <img src="diag.png" style="max-width: 100%; width: 400px;" />
+</div>
+
 In Wilton's proof, the non-freeness of $G$ serves as a lower bound on the complexity of vertex links in a graph of spaces decomposition of $G$. Specifically, if $G$ is not free, then it contains a one-ended graph of free groups with cyclic edge groups, say $G'$, in which—by an old result of Shanitzer—every vertex group is freely indecomposable relative to the incident edge groups. Wilton’s theorem applies to each such vertex, and the resulting surfaces can be glued together to produce a global surface subgroup inside $G$.
 
 In our setting, the hypothesis that $G$ is not a free product of free and surface groups (in which case, the abelianization of every finite-index subgroup of $G$ is always a free abelian group) yields a sharper complexity threshold, which can manifest in one of two ways:
@@ -130,6 +139,16 @@ The second case is a lot more subtle, and most of our efforts are directed towar
 
 ---
 ### Artificial branching
+
+Suppose now that the underlying graph of $G$ does not contain branching behavior, and therefore must contain a rigid vertex. A good example to keep in mind here is the double $F\ast_{w} F$ of a free group along a complicated word $w$ (e.g. a word whose Whitehead graph is a complete multigraph where each edge appears at least twice). In this case, the aforementioned splitting of $G$ coincides with its JSJ decomposition, and replacing each vertex with a surface with compatible boundary results in a closed surface and not a branched surface.
+
+To overcome this issue, we build *artificial branching blocks* - precovers of $G$ that mimic the behaviour of a branched surface, and allow us to get maps from branched surfaces into $G$. To do so, we exploit another theorem of Wilton's, which says that rigid vertices form a strong form of one-endedness:
+
+>**Theorem [Wilton '11]**: Let $F$ be a free group and let $w_1,\ldots,w_n \in F$ such that $F$ does not split over $\mathbb{Z}$ relative to $w_1,\ldots,w_n$. Then there is a finite-index subgroup $F'\le F$ satisfying the following property:
+>
+>If $v_1,\ldots,v_k$ are the elevations of $w_1,\ldots,w_n$ to $F'$, then $F'$ is freely indecomposable relative to $\{v_1,\ldots,v_k\} \setminus \{v_i\}$ for every $i\le k.$
+
+Combining this with Wilton's construction of surfaces with prescribed boundary in a free group, we obtain many surfaces that embed in $F$ with overlapping boundaries as the following illustration suggests:
 
 so we proved the case of branched surfaces - and as a result, since hyperbolic graphs of free groups with cyclic edges admit local retractions, to prove the result in the general case, it is enough to find a branched surface inside such $G$. Wilton showed that unless $G$ is free, then it must contain a surface subgroup. More precisely, he proved the following theorem:
 >**Theorem [Wilton '18]:** fill in later
