@@ -26,7 +26,8 @@ In addition, I am interested in model theory and the first-order theory of group
 ---
 ### **Research papers:**
 >Virtual homological torsion in graphs of free groups with cyclic edge groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
-[arXiv:2505.20960](https://arxiv.org/abs/2505.20960), *Submitted*.
+[arXiv:2505.20960](https://arxiv.org/abs/2505.20960), *Submitted*. \
+><sub>See also a [poster](poster.pdf) presented at Martin Bridson’s 60th birthday conference and its accompanying casual [extended abstract](torsion.md).</sub>
 
 >Virtual homology of limit groups and profinite rigidity of direct products, *with [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
 To appear in the *Israel Journal of Mathematics* [(arXiv:2209.14925)](https://arxiv.org/abs/2209.14925)
