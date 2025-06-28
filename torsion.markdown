@@ -53,8 +53,11 @@ The first step in our argument is to show that every system of linear equations 
 
 Note that branched surfaces are themselves graphs of free groups with cyclic edge groups; the fact that any branched surface has a *precover* that is a triple branched surface proves the theorem in this case.
 
->**Example.** Suppose $B$ is a triple branched surface made up of three surfaces $\Sigma$, $\Theta$, and $\Pi$, each with a single boundary circle identified as a common curve $x$. The table below describes a 4-sheeted cover $B' \to B$ in which $\Sigma$, $\Theta$, and $\Pi$ each lift to two double-sheeted covers, and the common boundary $x$ lifts to four distinct loops $x_1, x_2, x_3, x_4$. This cover has $H_1(B') \cong \mathbb{Z}^n \oplus \mathbb{Z}/2\mathbb{Z}$.
-
+>**Example.** Suppose $B$ is a triple branched surface made up of three surfaces $\Sigma$, $\Theta$, and $\Pi$, each with a single boundary circle identified as a common curve $x$. The table below describes a 4-sheeted cover $B' \to B$ in which $\Sigma$, $\Theta$, and $\Pi$ each lift to two double-sheeted covers, and the common boundary $x$ lifts to four distinct loops $x_1, x_2, x_3, x_4$. This cover has
+>
+>$$H_1(B') \cong \mathbb{Z}^n \oplus \mathbb{Z}/2\mathbb{Z}.$$
+>
+>
 <div align="center">
   <table>
     <thead>
