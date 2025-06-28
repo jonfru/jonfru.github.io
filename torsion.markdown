@@ -150,6 +150,11 @@ To overcome this issue, we build *artificial branching blocks* - precovers of $G
 
 Combining this with Wilton's construction of surfaces with prescribed boundary in a free group, we obtain many surfaces that embed in $F$ with overlapping boundaries as the following illustration suggests:
 
+<div align="center">
+  <img src="branch.png" style="max-width: 100%; width: 600px;" />
+</div>
+
+
 so we proved the case of branched surfaces - and as a result, since hyperbolic graphs of free groups with cyclic edges admit local retractions, to prove the result in the general case, it is enough to find a branched surface inside such $G$. Wilton showed that unless $G$ is free, then it must contain a surface subgroup. More precisely, he proved the following theorem:
 >**Theorem [Wilton '18]:** fill in later
 
