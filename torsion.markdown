@@ -158,7 +158,7 @@ To navigate this, we construct *artificial branching*: pieces that simulate bran
 
 >**Theorem [Wilton '11]**: Let $F$ be a free group and let $w_1,\ldots,w_n \in F$ such that $F$ does not split freely or over $\mathbb{Z}$ relative to $w_1,\ldots,w_n$. Then there is a finite-index subgroup $F'\le F$ satisfying the following property:
 >
->If $v_1,\ldots,v_k$ are the elevations of $w_1,\ldots,w_n$ to $F'$, then $F'$ is freely indecomposable relative to $`\{ v_1,\ldots,v_k\} \setminus \{v_i\}`$ for every $i\le k.$
+>If $v_1,\ldots,v_k$ are the elevations of $w_1,\ldots,w_n$ to $F'$, then $F'$ is freely indecomposable relative to $v_1,\ldots,v_{i-1},v_{i+1},\ldots,v_k$ for every $i\le k.$
 
 Combining this with Wilton’s construction of surfaces with prescribed boundary in free groups produces many surfaces that embed in $F$ with overlapping boundaries, as illustrated below:
 
