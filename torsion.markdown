@@ -136,7 +136,7 @@ In Wilton's proof, the non-freeness of $G$ serves as a lower bound on the comple
 >- the image of every component of $\partial(\Sigma)$ is an elevation of some $w_i$ to $f(\pi_1(\Sigma))\le F,$ and
 >- the total degree of the elevations of $w_i$ to $f(\pi_1(\Sigma))$ is uniform across all $i\le n$.
 
-This is often better explain by means of a pullback diagram:
+This is often better explained by means of a pullback diagram:
 
 <div align="center">
   <img src="diag.png" style="max-width: 100%; width: 700px;" />
