@@ -20,12 +20,13 @@ layout: page
 
 *Full paper available at* [arXiv:2505.20960](https://arxiv.org/abs/2505.20960)
 
-<hr style="height: 1px; background-color: #d9822b; border: none; margin: 1em 0;" />
+<hr style="height: 2px; background-color: #d9822b; border: none; margin: 1em 0;" />
 
 <style>body {text-align: justify}</style>
 #### Extended abstract to accompany a [poster](poster.pdf) presented at the William Rowan Hamilton Geometry and Topology Workshop, celebrating Martin Bridson’s 60th birthday (July 2025)
 
----
+<hr style="height: 4px; background-color: #d9822b; border: none; margin: 1em 0;" />
+
 ### Background
 
 In 2013, Hongbin Sun proved that homological torsion is remarkably abundant in finite covers of closed hyperbolic 3-manifolds. Specifically, given a closed, hyperbolic 3-manifold $M$, for every finite abelian group $A$ there exists a finite cover $M’_A$ of $M$ such that $A$ appears as a direct summand of $H_1(M'_A)$. Groves and Chu later extended this result to most finite-volume hyperbolic 3-manifolds with empty or toroidal boundary.
