@@ -17,8 +17,11 @@ layout: page
 
 
 # **Virtual homological torsion in graphs of free groups with cyclic edge groups** *(j/w [Dario Ascari](https://sites.google.com/view/dario-ascari))*
+
+*Full paper available at* [arXiv:2505.20960](https://arxiv.org/abs/2505.20960)
+
 <style>body {text-align: justify}</style>
-#### Extended abstract to accompany a poster presented at the William Rowan Hamilton Geometry and Topology Workshop, celebrating Martin Bridson’s 60th birthday
+#### Extended abstract to accompany a [poster](poster.pdf) presented at the William Rowan Hamilton Geometry and Topology Workshop, celebrating Martin Bridson’s 60th birthday (July 2025)
 
 ---
 ### Background
