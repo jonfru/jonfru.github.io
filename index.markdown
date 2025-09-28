@@ -10,7 +10,7 @@ layout: page
      Endenicher Allee 60, 53115
  </span>
 </p>
-<img src="me2.JPG" alt="me" width="100%">
+<img src="me3.JPG" alt="me" width="100%">
 
 <hr style="border: none; height: 5px; background-color: #cc5500;" />
 
