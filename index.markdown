@@ -10,9 +10,9 @@ layout: page
      Endenicher Allee 60, 53115
  </span>
 </p>
-<img src="me2.jpg" alt="me" width="100%">
+<img src="me2.JPG" alt="me" width="100%">
 
-<hr style="border: none; height: 8px; background-color: #cc5500;" />
+<hr style="border: none; height: 5px; background-color: #cc5500;" />
 
 Postdoctoral research associate at the University of Bonn, working in [Giles Gardam](https://www.gilesgardam.com/)'s team.
 
@@ -23,7 +23,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 My research is in **geometric group theory** and my work explores connections between geometry, topology and profinite rigidity. I also work with group rings of infinite groups, with a focus on the Kaplansly conjectures.\
 In addition, I am interested in model theory and the first-order theory of groups. 
 
-<hr style="border: none; height: 8px; background-color: #cc5500;" />
+<hr style="border: none; height: 5px; background-color: #cc5500;" />
 
 ### **Research papers:**
 >Virtual homological torsion in graphs of free groups with cyclic edge groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
@@ -39,7 +39,7 @@ To appear in the *Israel Journal of Mathematics* [(arXiv:2209.14925)](https://ar
 >Formal solutions and the first-order theory of acylindrically hyperbolic groups, *with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html)*. \
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526)
 
-<hr style="border: none; height: 8px; background-color: #cc5500;" />
+<hr style="border: none; height: 5px; background-color: #cc5500;" />
 
 ### **Teaching:**
 - In Winter Semester 2024-2025 I gave a lecture course titled "Groups, Geometry and Logic" (Module V5D4 - Selected Topics in Geometry). The course revolved mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are available.
@@ -48,7 +48,7 @@ To appear in the *Israel Journal of Mathematics* [(arXiv:2209.14925)](https://ar
 
 - Before that I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya). I taught linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 
-<hr style="border: none; height: 8px; background-color: #cc5500;" />
+<hr style="border: none; height: 5px; background-color: #cc5500;" />
 
 ### **Other things that I like:**
 I really enjoy it when mathematics and visual arts come together.
@@ -65,6 +65,6 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) exp
          (compatible with mobile devices - drag the point on the big triangle)
      </p>
 
-<hr style="border: none; height: 8px; background-color: #cc5500;" />
+<hr style="border: none; height: 5px; background-color: #cc5500;" />
 
 
