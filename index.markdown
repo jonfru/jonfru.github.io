@@ -62,7 +62,10 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 <a id="teaching"></a>
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 ### **Teaching:**<a href="#top" style="float:right;">⬆️</a>
-- In Winter Semester 2024-2025 I gave a lecture course titled ``Groups, Geometry and Logic'' (Module V5D4 - Selected Topics in Geometry). The course revolved mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are available.
+
+- In Winter Semester 2024-2025 I gave a **lecture course titled ``Groups, Geometry and Logic''** (Module V5D4 - Selected Topics in Geometry). The course revolved mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are available.
+
+- In summer 2024 I gave a **mini-course on profinite rigidity** (with an emphasis on low-dimensional topology) as part of the [Workshop on Profinite Rigidity](https://topology.math.kit.edu/english/1342.php) at the Karlsruher Institut für Technologie (KIT). [Lecture notes](/profinite_notes.pdf) are available.
 
 - In 2022-2023 I was a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23 and A4: Integration in Hilary '23. 
 
