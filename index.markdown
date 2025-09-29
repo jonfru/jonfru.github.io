@@ -15,9 +15,6 @@ layout: page
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta charset="utf-8"/>
-<script src="https://www.geogebra.org/apps/deployggb.js"></script>
 
 # Jonathan Fruchter
 <p style="text-align:left;">
@@ -81,35 +78,6 @@ I really enjoy it when mathematics and visual arts come together.
 
 In '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
 I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) explaining symmetry for the exhibition, and you can see me talking about the exhibition [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme which allowed exhibition visitors to generate their own symmetric patterns inspired by Islamic art (feel free to email me if you made a cool design and want to share):
-
-T
-<div style="float:center;width:100%;height:100%;" class="geogebracontainer">
-    <div id="ggb_1"></div>
-</div>
-
-<script>
-  var applet = new GGBApplet({
-    appName: "classic",
-    filename: "p6m.ggb",
-    scaleContainerClass: "geogebracontainer", 
-    useContainerClass: true,
-    showMenuBar: false,
-    showToolBar: false,
-    showToolBarHelp: false,
-    showAlgebraInput: false,
-    showResetIcon: false,
-    enableRightClick: false,
-    enableLabelDrags: false,
-    enableUndoRedo: false,
-    enableShiftDragZoom: false
-  }, true);
-
-  window.addEventListener("load", function() {
-    applet.inject("ggb_1");
-  });
-</script>
-
-
 
 <div style="position:relative;padding-bottom:92%;">
  <iframe style="width:100%;height:100%;position:absolute;border:0px;"
