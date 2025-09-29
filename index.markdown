@@ -37,9 +37,8 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 [comment]: #I am a Clarendon Scholar and the recipient of the John Moussouris scholarship in mathematics (through Merton College).\
 
-<hr style="border: none; height: 4px; background-color: #cc5500;" />
-
 <a id="papers"></a>
+<hr style="border: none; height: 4px; background-color: #cc5500;" />
 ### **Research papers:** <a href="#top" style="float:right;">⬆️</a>
 >Virtual homological torsion: abundance versus growth in books of $I$-bundles. \
 🔗[arXiv:2509.22052](https://arxiv.org/abs/2509.22052).
@@ -60,9 +59,8 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 >Formal solutions and the first-order theory of acylindrically hyperbolic groups, *with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html)*. \
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 🔗[(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526).
 
-<hr style="border: none; height: 4px; background-color: #cc5500;" />
-
 <a id="teaching"></a>
+<hr style="border: none; height: 4px; background-color: #cc5500;" />
 ### **Teaching:**<a href="#top" style="float:right;">⬆️</a>
 - In Winter Semester 2024-2025 I gave a lecture course titled ``Groups, Geometry and Logic'' (Module V5D4 - Selected Topics in Geometry). The course revolved mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are available.
 
@@ -70,9 +68,8 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 - Before that I was a tutor and a TA at the University of Oxford, the Hebrew University of Jerusalem and Reichman University (IDC Herzliya). I taught linear algebra, discrete mathematics, general topology, set theory, mathematical logic, infinite groups, geometry of surfaces, group theory and integration.
 
-<hr style="border: none; height: 4px; background-color: #cc5500;" />
-
 <a id="beyond"></a>
+<hr style="border: none; height: 4px; background-color: #cc5500;" />
 ### **Mathematics beyond research:**<a href="#top" style="float:right;">⬆️</a>
 I really enjoy it when mathematics and visual arts come together.
 
