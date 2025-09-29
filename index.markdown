@@ -93,8 +93,8 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) exp
   <script>
       var params = {
         appName: "classic",      // “classic” is the safe choice
-        width: 800,
-        height: 600,
+        width: 1085,
+        height: 967,
         filename: "p6m.ggb",  // your construction file (self-hosted)
         showToolBar: false,
         showAlgebraInput: false,
