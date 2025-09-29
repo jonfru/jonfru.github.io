@@ -17,21 +17,7 @@ layout: page
 </script>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta charset="utf-8"/>
-<script> document.addEventListener("DOMContentLoaded", function() { var ggbScript = "<script src='https://www.geogebra.org/apps/deployggb.js'>"; var s1 = document.createElement("script"); document.body.appendChild(s1); console.log("doc ready"); s1.onload = function() { 
-  var applet1 = new GGBApplet({
-  appName: "classic",
-  filename: "p6m.ggb",
-  scaleContainerClass: "geogebracontainer",
-  showMenuBar: false,
-  showToolBar: false,
-  showToolBarHelp: false,
-  showAlgebraInput: false,
-  showResetIcon: false,
-  enableRightClick: false,
-  enableLabelDrags: false,
-  enableUndoRedo: false,
-  enableShiftDragZoom: false
-}, true); window.addEventListener("load", function() { applet1.inject('ggb_1'); }); }; s1.src = "https://www.geogebra.org/apps/deployggb.js"; }, false); </script>
+<script src="https://www.geogebra.org/apps/deployggb.js"></script>
 
 # Jonathan Fruchter
 <p style="text-align:left;">
@@ -96,9 +82,24 @@ I really enjoy it when mathematics and visual arts come together.
 In '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
 I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) explaining symmetry for the exhibition, and you can see me talking about the exhibition [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme which allowed exhibition visitors to generate their own symmetric patterns inspired by Islamic art (feel free to email me if you made a cool design and want to share):
 
-<div style="float:left;width:100%;height:100%" class="geogebracontainer">
-        <div id="ggb_1"></div>
-    </div>
+<style>
+  /* This is the class you'll point GeoGebra at */
+  .geogebracontainer {
+    width: 100%;              /* responsive */
+    max-width: 1085px;        /* optional cap */
+    aspect-ratio: 1085 / 967; /* keep same shape as old iframe */
+    margin: 0 auto;           /* center */
+    position: relative;
+  }
+</style>
+<div id="ggb-element"></div>
+<script>
+    var params = {"filename": "p6m.ggb", "scaleContainerClass": "geogebracontainer"};
+    var applet = new GGBApplet(params, true);
+    window.addEventListener("load", function() {
+        applet.inject('ggb-element');
+    });
+</script>
 
 
 <div style="position:relative;padding-bottom:92%;">
