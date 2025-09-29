@@ -39,7 +39,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
 ### **Research papers:**
->Virtual homological torsion: Abundance versus growth in books of $I$-bundles. \
+>Virtual homological torsion: abundance versus growth in books of $I$-bundles. \
 [arXiv:2509.22052](https://arxiv.org/abs/2509.22052).
 
 >Homological torsion growth in non-normal chains of graphs of free groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
