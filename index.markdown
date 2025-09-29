@@ -30,7 +30,7 @@ layout: page
 
 Postdoctoral research associate at the University of Bonn, working in [Giles Gardam](https://www.gilesgardam.com/)'s team.
 
-My research is in **geometric group theory** and **low-dimensional topology**. I study non-positively curved groups and spaces by looking at the asymptotic behaviour of their covering spaces, often with applications to profinite rigidity. I also work with group rings of infinite groups, focusing on the Kaplansly conjectures, and I am interested in model theory and the first-order theory of groups.
+My research is in **geometric group theory** and **low-dimensional topology**. I study negatively curved groups and spaces by looking at the asymptotic behaviour of their finite-sheeted covers, often with applications to profinite rigidity. I also work with group rings of infinite groups, focusing on the Kaplansly conjectures, and I am interested in model theory and the first-order theory of groups.
 
 I completed my DPhil at the University of Oxford, under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/). Before that, I obtained my master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). 
 
@@ -40,7 +40,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 ### **Research papers:**
 >Virtual homological torsion: Abundance versus growth in books of $I$-bundles. \
->Arxiv preprint.
+[arXiv:2509.22052](https://arxiv.org/abs/2509.22052).
 
 >Homological torsion growth in non-normal chains of graphs of free groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
 [arXiv:2509.15075](https://arxiv.org/abs/2509.15075).
