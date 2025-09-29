@@ -25,7 +25,7 @@ layout: page
  </span>
 </p>
 <img src="me3.JPG" alt="me" width="100%">
-<sub>📃[Papers&nbsp;](/#research-papers)&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;🎓[Teaching&nbsp;](/#teaching)&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;🎇[Beyond&nbsp;](/#mathematics-beyond-research)</sub>
+<sub>📃[Papers&nbsp;](/#papers)&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;🎓[Teaching&nbsp;](/#teaching)&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;🎇[Beyond&nbsp;](/#beyond)</sub>
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
@@ -39,6 +39,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
+<a id="papers"></a>
 ### **Research papers:** <a href="#top" style="float:right;">⬆️</a>
 >Virtual homological torsion: abundance versus growth in books of $I$-bundles. \
 🔗[arXiv:2509.22052](https://arxiv.org/abs/2509.22052).
@@ -61,6 +62,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
+<a id="teaching"></a>
 ### **Teaching:**<a href="#top" style="float:right;">⬆️</a>
 - In Winter Semester 2024-2025 I gave a lecture course titled ``Groups, Geometry and Logic'' (Module V5D4 - Selected Topics in Geometry). The course revolved mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are available.
 
@@ -70,6 +72,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
+<a id="beyond"></a>
 ### **Mathematics beyond research:**<a href="#top" style="float:right;">⬆️</a>
 I really enjoy it when mathematics and visual arts come together.
 
