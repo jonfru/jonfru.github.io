@@ -85,13 +85,16 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) exp
 <style>
   /* This is the class you'll point GeoGebra at */
   .geogebracontainer {
-    width: 100%;              /* responsive */
+    width: 100%;  
+    height: 100%;
     position: relative;
   }
 </style>
+
 <div class="geogebracontainer">
   <div id="ggb_1"></div>
 </div>
+
 <script>
   var applet = new GGBApplet({
     appName: "classic",
