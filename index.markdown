@@ -92,14 +92,30 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) exp
     position: relative;
   }
 </style>
-<div id="ggb-element"></div>
+<div class="geogebracontainer">
+  <div id="ggb_1"></div>
+</div>
 <script>
-    var params = {"filename": "p6m.ggb", "scaleContainerClass": "geogebracontainer"};
-    var applet = new GGBApplet(params, true);
-    window.addEventListener("load", function() {
-        applet.inject('ggb-element');
-    });
+  var applet = new GGBApplet({
+    appName: "classic",
+    filename: "p6m.ggb",
+    scaleContainerClass: "geogebracontainer", // key line
+    showMenuBar: false,
+    showToolBar: false,
+    showToolBarHelp: false,
+    showAlgebraInput: false,
+    showResetIcon: false,
+    enableRightClick: false,
+    enableLabelDrags: false,
+    enableUndoRedo: false,
+    enableShiftDragZoom: false
+  }, true);
+
+  window.addEventListener("load", function() {
+    applet.inject("ggb_1");
+  });
 </script>
+
 
 
 <div style="position:relative;padding-bottom:92%;">
