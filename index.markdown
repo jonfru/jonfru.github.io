@@ -17,7 +17,7 @@ layout: page
 </script>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta charset="utf-8"/>
-<script> document.addEventListener("DOMContentLoaded", function() { var ggbScript = "<script src='https://www.geogebra.org/apps/deployggb.js'>"; var s1 = document.createElement("script"); document.body.appendChild(s1); console.log("doc ready"); s1.onload = function() { var applet1 = new GGBApplet({ filename: "p6m.ggb", borderColor: '#888888', showMenuBar: false, showToolBar: false, showToolBarHelp: false, algebraInputPosition: false, allowStyleBar: false, showResetIcon: true, enableRightClick: false, enableLabelDrags: false, enableShiftDragZoom: false, useBrowserForJS: false, playButton: false, showFullScreenButton: true, scaleContainerClass: "geogebracontainer" }, true); window.addEventListener("load", function() { applet1.inject('ggb_1'); }); }; s1.src = "https://www.geogebra.org/apps/deployggb.js"; }, false); </script>
+<script> document.addEventListener("DOMContentLoaded", function() { var ggbScript = "<script src='https://www.geogebra.org/apps/deployggb.js'>"; var s1 = document.createElement("script"); document.body.appendChild(s1); console.log("doc ready"); s1.onload = function() { var applet1 = new GGBApplet({ filename: "p6m.ggb", borderColor: '#888888', showMenuBar: false, showToolBar: false, showToolBarHelp: false, algebraInputPosition: false, allowStyleBar: false, showResetIcon: false, useBrowserForJS: false, showFullScreenButton: true, scaleContainerClass: "geogebracontainer" }, true); window.addEventListener("load", function() { applet1.inject('ggb_1'); }); }; s1.src = "https://www.geogebra.org/apps/deployggb.js"; }, false); </script>
 
 # Jonathan Fruchter
 <p style="text-align:left;">
