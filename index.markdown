@@ -25,7 +25,7 @@ layout: page
  </span>
 </p>
 <img src="me3.JPG" alt="me" width="100%">
-<sub>📃[Papers](/#research-papers)&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;🎓[Teaching](/#teaching)&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;🎇[Beyond](/#mathematics-beyond-research)</sub>
+<sub>📃[Papers&nbsp;](/#research-papers)&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;🎓[Teaching&nbsp;](/#teaching)&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;🎇[Beyond&nbsp;](/#mathematics-beyond-research)</sub>
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
@@ -39,7 +39,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
-### **Research papers:**
+### **Research papers:**<p align="right">[⬆️](/#top)</p>
 >Virtual homological torsion: abundance versus growth in books of $I$-bundles. \
 🔗[arXiv:2509.22052](https://arxiv.org/abs/2509.22052).
 
@@ -61,7 +61,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
-### **Teaching:**
+### **Teaching:**<p align="right">[⬆️](/#top)</p>
 - In Winter Semester 2024-2025 I gave a lecture course titled ``Groups, Geometry and Logic'' (Module V5D4 - Selected Topics in Geometry). The course revolved mostly around the first-order theory of non-abelian free groups. [Lecture notes](/notes.pdf) are available.
 
 - In 2022-2023 I was a Stipendiary Lecturer in Pure Mathematics at Exeter College (University of Oxford), teaching A2: Metric Spaces and Complex Analysis in Michaelmas '22-23 and A4: Integration in Hilary '23. 
@@ -70,7 +70,7 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
-### **Mathematics beyond research:**
+### **Mathematics beyond research:**<p align="right">[⬆️](/#top)</p>
 I really enjoy it when mathematics and visual arts come together.
 
 In '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
