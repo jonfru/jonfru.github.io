@@ -2,8 +2,8 @@
 title: Jonathan Fruchter
 layout: page
 ---
- <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
- <script>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+<script>
   window.MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
