@@ -2,7 +2,7 @@
 title: Jonathan Fruchter
 layout: page
 ---
-<link rel="shortcut icon" type="image/png" href="liz.png?">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <script>
   window.MathJax = {
     tex: {
@@ -33,7 +33,7 @@ Postdoctoral research associate at the University of Bonn, working in [Giles Gar
 
 My research is in **geometric group theory** and **low-dimensional topology**. I study negatively curved groups and spaces by looking at the asymptotic behaviour of their finite-sheeted covers, often with applications to profinite rigidity. I also work with group rings of infinite groups, focusing on the Kaplansly conjectures, and I am interested in model theory and the first-order theory of groups.
 
-I completed my DPhil at the University of Oxford, under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/). Before that, I obtained my master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). 
+I completed my DPhil at the University of Oxford, under the supervision of [Martin Bridson](https://people.maths.ox.ac.uk/bridson/). Before that, I obtained my Master's degree at the Hebrew University of Jerusalem under the supervision of [Zlil Sela](http://www.ma.huji.ac.il/~zlil/). 
 
 [comment]: #I am a Clarendon Scholar and the recipient of the John Moussouris scholarship in mathematics (through Merton College).\
 
@@ -50,13 +50,13 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 🔗[arXiv:2505.20960](https://arxiv.org/abs/2505.20960). \
 ><sub>**Extras:** [Recorded talk](https://www.youtube.com/watch?v=BI9iUPSnT_8). [Poster](poster.pdf) and its accompanying casual [extended abstract](torsion) (presented at Martin Bridson’s 60th birthday conference).</sub>
 
->Virtual homology of limit groups and profinite rigidity of direct products, *with [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
+>Virtual homology of limit groups and profinite rigidity of direct products, *with [Ismael Morales](https://sites.google.com/view/ismaelmorales/)*. \
 🔗[arXiv:2209.14925](https://arxiv.org/abs/2209.14925), to appear in the *Israel Journal of Mathematics*.
 
 >Limit groups over coherent right-angled Artin groups are cyclic subgroup separable. \
 *Michigan Mathematical Journal **73**-5 (2023): 909-923* 🔗[(journal version)](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-73/issue-5/Limit-Groups-over-Coherent-Right-Angled-Artin-Groups-Are-Cyclic/10.1307/mmj/20216031.short) 🔗[(arXiv:2101.10458)](https://arxiv.org/abs/2101.10458).
 
->Formal solutions and the first-order theory of acylindrically hyperbolic groups, *with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html)*. \
+>Formal solutions and the first-order theory of acylindrically hyperbolic groups, *with [Simon André](https://webusers.imj-prg.fr/~simon.andre/anglais.html)*. \
 *Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 🔗[(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526).
 
 <a id="teaching"></a>
