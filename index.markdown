@@ -2,8 +2,8 @@
 title: Jonathan Fruchter
 layout: page
 ---
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-<script>
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+ <script>
   window.MathJax = {
     tex: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
@@ -25,7 +25,7 @@ layout: page
  </span>
 </p>
 <img src="me3.JPG" alt="me" width="100%">
-<sub>📃[Papers&nbsp;](/#papers)&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;🎓[Teaching&nbsp;](/#teaching)&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;🎇[Beyond&nbsp;](/#beyond)</sub>
+<sub>📃&nbsp;[Papers](/#papers)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓&nbsp;[Teaching](/#teaching)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔸&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎇&nbsp;[Beyond](/#beyond)</sub>
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
