@@ -22,7 +22,9 @@ layout: page
   .ggb-wrap {
     position: relative;
     width: 100%;
-    padding-bottom: 92%; /* keeps aspect ratio ~1085:967 */
+    padding-bottom: 89.1%; /* 967/1085 = 0.891 aspect ratio */
+    max-width: 1085px;     /* optional: limit size on large screens */
+    margin: auto;          /* optional: center horizontally */
   }
   #ggb-element {
     position: absolute;
@@ -103,6 +105,7 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) exp
   var params = {
     appName: "classic",
     filename: "p6m.ggb",
+    // 🔑 don’t set width/height here!
     showToolBar: false,
     showAlgebraInput: false,
     showMenuBar: false,
