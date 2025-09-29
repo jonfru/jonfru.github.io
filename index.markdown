@@ -25,7 +25,7 @@ layout: page
  </span>
 </p>
 <img src="me3.JPG" alt="me" width="100%">
-<sub>📃[/#research-papers](Papers) 🔸 🎓[/#teaching](Teaching) 🔸 🎇[/#mathematics-beyond-research](Beyond)</sub>
+<sub>📃[Papers](/#research-papers) 🔸 🎓[Teaching](/#teaching) 🔸 🎇[Beyond](/#mathematics-beyond-research)</sub>
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
