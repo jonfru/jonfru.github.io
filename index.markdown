@@ -96,25 +96,9 @@ I really enjoy it when mathematics and visual arts come together.
 In '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
 I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) explaining symmetry for the exhibition, and you can see me talking about the exhibition [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme which allowed exhibition visitors to generate their own symmetric patterns inspired by Islamic art (feel free to email me if you made a cool design and want to share):
 
-<style>
-  .geogebracontainer {
-    width: 100%;
-    max-width: 1085px;          /* optional: don’t let it get bigger than original */
-    margin: 0 auto;             /* center on page */
-    aspect-ratio: 1085 / 967;   /* keep same shape as before */
-    position: relative;
-  }
-  #ggb_1 {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-  }
-</style>
-
-<div class="geogebracontainer">
-  <div id="ggb_1"></div>
-</div>
+<div style="float:left;width:100%;height:100%" class="geogebracontainer">
+        <div id="ggb_1"></div>
+    </div>
 
 
 <div style="position:relative;padding-bottom:92%;">
