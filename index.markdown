@@ -19,10 +19,17 @@ layout: page
 <meta charset="utf-8"/>
 <script src="https://www.geogebra.org/apps/deployggb.js"></script>
 <style>
-  #ggb-element {
+  .ggb-wrap {
+    position: relative;
     width: 100%;
-    height: 100vh; /* take full viewport height, adjust as needed */
-    }
+    padding-bottom: 92%; /* keeps aspect ratio ~1085:967 */
+  }
+  #ggb-element {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
 </style>
 
 # Jonathan Fruchter
@@ -88,32 +95,28 @@ I really enjoy it when mathematics and visual arts come together.
 In '20-21 I volunteered with [Multaka](https://www.torch.ox.ac.uk/multaka-oxford) and co-produced the __*Precious and Rare: Islamic Metalwork from The Courtauld* exhibition at the History of Science in Oxford__. \
 I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) explaining symmetry for the exhibition, and you can see me talking about the exhibition [here](https://www.youtube.com/watch?v=nYVnhWB8yEQ). I also made a computer programme which allowed exhibition visitors to generate their own symmetric patterns inspired by Islamic art (feel free to email me if you made a cool design and want to share):
 
-<div id="ggb-element"></div>
+<div class="ggb-wrap">
+  <div id="ggb-element"></div>
+</div>
 
-  <script>
-      var params = {
-        appName: "classic",      // “classic” is the safe choice
-        width: 1085,
-        height: 967,
-        filename: "p6m.ggb",  // your construction file (self-hosted)
-        showToolBar: false,
-        showAlgebraInput: false,
-        showMenuBar: false,
-        showResetIcon: false,
-        enableRightClick: false,
-        enableLabelDrags: false,
-        enableUndoRedo: false,
-        enableShiftDragZoom: false
-      };
-      var applet = new GGBApplet(params, true);
-
-      // (Optional) if you’re self-hosting, point to your local codebase:
-      // applet.setHTML5Codebase("GeoGebra/HTML5/5.0/web3d/");
-
-      window.addEventListener("load", function() {
-        applet.inject('ggb-element');
-      });
-   </script>
+<script>
+  var params = {
+    appName: "classic",
+    filename: "p6m.ggb",
+    showToolBar: false,
+    showAlgebraInput: false,
+    showMenuBar: false,
+    showResetIcon: false,
+    enableRightClick: false,
+    enableLabelDrags: false,
+    enableUndoRedo: false,
+    enableShiftDragZoom: false
+  };
+  var applet = new GGBApplet(params, true);
+  window.addEventListener("load", function() {
+    applet.inject("ggb-element");
+  });
+</script>
 
 <div style="position:relative;padding-bottom:92%;">
  <iframe style="width:100%;height:100%;position:absolute;border:0px;"
