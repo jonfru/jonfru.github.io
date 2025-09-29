@@ -25,6 +25,7 @@ layout: page
  </span>
 </p>
 <img src="me3.JPG" alt="me" width="100%">
+<sub>📃[/#research-papers](Papers) 🔸 🎓[/#teaching](Teaching) 🔸 🎇[/#mathematics-beyond-research](Beyond)</sub>
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
@@ -40,23 +41,23 @@ I completed my DPhil at the University of Oxford, under the supervision of [Mart
 
 ### **Research papers:**
 >Virtual homological torsion: abundance versus growth in books of $I$-bundles. \
-[arXiv:2509.22052](https://arxiv.org/abs/2509.22052).
+🔗[arXiv:2509.22052](https://arxiv.org/abs/2509.22052).
 
 >Homological torsion growth in non-normal chains of graphs of free groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
-[arXiv:2509.15075](https://arxiv.org/abs/2509.15075).
+🔗[arXiv:2509.15075](https://arxiv.org/abs/2509.15075).
 
 >Virtual homological torsion in graphs of free groups with cyclic edge groups, *with [Dario Ascari](https://sites.google.com/view/dario-ascari)*. \
-[arXiv:2505.20960](https://arxiv.org/abs/2505.20960). \
+🔗[arXiv:2505.20960](https://arxiv.org/abs/2505.20960). \
 ><sub>**Extras:** [Recorded talk](https://www.youtube.com/watch?v=BI9iUPSnT_8). [Poster](poster.pdf) and its accompanying casual [extended abstract](torsion) (presented at Martin Bridson’s 60th birthday conference).</sub>
 
 >Virtual homology of limit groups and profinite rigidity of direct products, *with [Ismael Morales](https://www.maths.ox.ac.uk/people/ismael.morales)*. \
- [arXiv:2209.14925](https://arxiv.org/abs/2209.14925), to appear in the *Israel Journal of Mathematics*.
+🔗[arXiv:2209.14925](https://arxiv.org/abs/2209.14925), to appear in the *Israel Journal of Mathematics*.
 
 >Limit groups over coherent right-angled Artin groups are cyclic subgroup separable. \
-*Michigan Mathematical Journal **73**-5 (2023): 909-923* [(journal version)](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-73/issue-5/Limit-Groups-over-Coherent-Right-Angled-Artin-Groups-Are-Cyclic/10.1307/mmj/20216031.short) [(arXiv:2101.10458)](https://arxiv.org/abs/2101.10458).
+*Michigan Mathematical Journal **73**-5 (2023): 909-923* 🔗[(journal version)](https://projecteuclid.org/journals/michigan-mathematical-journal/volume-73/issue-5/Limit-Groups-over-Coherent-Right-Angled-Artin-Groups-Are-Cyclic/10.1307/mmj/20216031.short) 🔗[(arXiv:2101.10458)](https://arxiv.org/abs/2101.10458).
 
 >Formal solutions and the first-order theory of acylindrically hyperbolic groups, *with [Simon André](http://perso.eleves.ens-rennes.fr/~sandre/anglais.html)*. \
-*Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 [(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526).
+*Journal of the London Mathematical Society* **105**-2 (2022), 1012-1072 🔗[(open access)](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/jlms.12526).
 
 <hr style="border: none; height: 4px; background-color: #cc5500;" />
 
