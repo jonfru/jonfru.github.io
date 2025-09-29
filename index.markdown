@@ -86,8 +86,6 @@ I made a short [animated video](https://www.youtube.com/watch?v=j-zgMIAfFEo) exp
   /* This is the class you'll point GeoGebra at */
   .geogebracontainer {
     width: 100%;              /* responsive */
-    max-width: 1085px;        /* optional cap */
-    aspect-ratio: 1085 / 967; /* keep same shape as old iframe */
     margin: 0 auto;           /* center */
     position: relative;
   }
